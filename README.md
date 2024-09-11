@@ -46,6 +46,15 @@ To view and test the project locally, follow these steps:
    - **Using Live Server**: If you have [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.live-server) installed in Visual Studio Code, you can right-click on `index.html` and select **Open with Live Server** for a real-time preview.
    - **Directly in a Browser**: Alternatively, open the file directly in any modern web browser by navigating to the file location and double-clicking on `index.html`.
 
+## Running the Project
+
+To view and test the project, follow these steps:
+
+1. **Open `index.html` in a web browser**:
+
+   - **Using Live Server**: If you have [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.live-server) installed in Visual Studio Code, you can right-click on `index.html` and select **Open with Live Server** for real-time preview.
+   - **Directly in a Browser**: Alternatively, you can open the file directly in any modern web browser by navigating to the file location and double-clicking on `index.html`.
+
 2. **Test the functionality**:
    - **Form Validations**: Ensure that the form fields are validated correctly (e.g., email format and password length).
    - **API Integration**: Check that the login form communicates with the API as expected, displaying appropriate success or error messages.
