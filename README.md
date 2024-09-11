@@ -1,6 +1,3 @@
-# login-page-project
-Simple responsive login page with API integration and validations
-
 # Login Page Project
 
 ## Overview
@@ -31,3 +28,17 @@ This project is a simple login page built using HTML, CSS, and JavaScript. It in
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/Pavithrashekar/login-page-project.git
+   cd login-page-project
+
+Running the Project
+Open index.html in a web browser.
+
+You can use Live Server in Visual Studio Code for real-time preview.
+Alternatively, open the file directly in any modern web browser.
+Test the functionality:
+
+Check form validations.
+Ensure API integration works as expected.
+Verify responsiveness on different devices.
+
+   
