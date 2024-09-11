@@ -30,15 +30,18 @@ This project is a simple login page built using HTML, CSS, and JavaScript. It in
    git clone https://github.com/Pavithrashekar/login-page-project.git
    cd login-page-project
 
-Running the Project
-Open index.html in a web browser.
+## Running the Project
 
-You can use Live Server in Visual Studio Code for real-time preview.
-Alternatively, open the file directly in any modern web browser.
-Test the functionality:
+To view and test the project, follow these steps:
 
-Check form validations.
-Ensure API integration works as expected.
-Verify responsiveness on different devices.
+1. **Open `index.html` in a web browser**:
+   - **Using Live Server**: If you have [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.live-server) installed in Visual Studio Code, you can right-click on `index.html` and select **Open with Live Server** for real-time preview.
+   - **Directly in a Browser**: Alternatively, you can open the file directly in any modern web browser by navigating to the file location and double-clicking on `index.html`.
+
+2. **Test the functionality**:
+   - **Form Validations**: Ensure that the form fields are validated correctly (e.g., email format and password length).
+   - **API Integration**: Check that the login form communicates with the API as expected, displaying appropriate success or error messages.
+   - **Responsiveness**: Verify that the login page is responsive and looks good on different devices and screen sizes.
+
 
    
